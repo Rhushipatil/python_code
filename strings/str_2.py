@@ -26,10 +26,49 @@
 
 
 ## rhushi vikas patil----->r v patil
-s=input()
-a=s.split()
-update=[]
-for word in a[:len(a)-1]:           # iterate over all but last
-    update.append(word[0])
-update.append(a[len(a-1)])    
-print(''.join(update))
+# s=input()
+# a=s.split()
+# update=[]
+# for word in a[:len(a)-1]:           # iterate over all but last
+#     update.append(word[0])
+# update.append(a[len(a)-1])    
+# print(''.join(update))
+
+
+
+# s=input()
+# a=s.split()
+# l=[]
+# for word in a[:len(a)-1]:
+#     l.append(word[0])
+# l.append(a[len(a)-1])
+# print(" ".join(l))    
+
+# s='rhushi v patil'
+# a=s.find('h')
+# print(a)                          ---------->find & rfind 
+
+# s=input().split()
+# l=[]
+# for word in s:
+#     l.append(word[::-1])
+# print(" ".join(l))                        #======> reverse word rhushi v pail
+#                                                       ihsuhr v litap
+
+
+# s="my name is rhushi"     =====>MY NAME IS RHUSHI
+# print(s.swapcase())
+
+
+
+# s="my name is rhushi"
+# print(s.islower())   # True
+# print(s.isupper())   # False
+# print(s.capitalize())# My name is rhushi
+# print(s.title())     # My Name Is Rhushi
+# print(s.upper())     # MY NAME IS RHUSHI
+# print(s.lower())     # my name is rhushi
+
+# s="my name is rhushi"
+# print(s.count('h'))
+
