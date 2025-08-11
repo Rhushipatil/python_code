@@ -8,7 +8,7 @@
 #         print(self.name)
 #         print(self.roll)
         
-# t=teacher()
+## t=teacher()
 # t1=teacher()
 # t.display()        
 
@@ -76,4 +76,5 @@ print(id(teacher))
    
 print(teacher.fun()) 
    
+
    
