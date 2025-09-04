@@ -4,7 +4,7 @@
 #     '''this is function returning sum and difference'''
 #     return a+b , a-b    
 
-# x,y=f(10,20)
+## x,y=f(10,20)
 # print(x,y)
 
 # ##to call docstrinf we have to erite function name inthis case[f]
@@ -68,4 +68,5 @@ print(f(1,5,6,8)   )
         
 #         print(ele)             
         
+
 # f(1,5,6,8,"ram",[1,2,3],(2,"raj"))  
