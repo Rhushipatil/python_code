@@ -1,4 +1,4 @@
-##"""""" triple can do multiline string
+#"""""" triple can do multiline string
 # a="ram"
 # print(a[0:2])
 
@@ -46,6 +46,7 @@ s="rhushi"
 #     print(s,"is a palindrome")
 # else:
 #     print(s,"is not a palindrome")   
+
 
 
 
