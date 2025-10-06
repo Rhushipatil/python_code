@@ -10,7 +10,7 @@
 
 
 # 1]filter
-# 2]map
+## 2]map
 # 3]reduce
 
 # def f(x):
